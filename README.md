@@ -30,7 +30,6 @@ print("{:.2f}".format(distance))
 ```
   
 ### OUTPUT:
-
 ![](./distance.png)
 
 ### RESULT:
