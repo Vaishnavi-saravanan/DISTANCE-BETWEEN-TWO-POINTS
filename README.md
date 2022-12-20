@@ -29,8 +29,9 @@ distance = math.sqrt(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))
 print("{:.2f}".format(distance))
 ```
   
-### OUTPUT:
-![](./distance.png)
+### OUTPUT: 
+
+![distance](https://user-images.githubusercontent.com/118541897/208662966-1a846c83-290a-49f6-9b47-68dd46e26b5b.png)
 
 ### RESULT:
 
